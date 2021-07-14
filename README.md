@@ -51,13 +51,7 @@ In the second project, Enterprise Admin Portal, the following approach was used:
 
 The tests for Enterprise Admin Portal are present in following path
 
-<https://github.com/edx/cypress-e2e-tests/tree/master/cypress/integration/admin_portal>
 
-To manage multiple projects customized config files are used so user is able to run any project without making any change in the code
-
-Config files for projects are placed here
-
-<https://github.com/edx/cypress-e2e-tests/tree/master/config>
 
 ---
 ---
